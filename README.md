@@ -9,6 +9,7 @@ Finds Discords corresponding to Roblox accounts, searches users friends for maxi
 - Open cmd.exe and cd into the files parent directory
 
 Run: ```pip install requests``` (you only need to run this line once) then ```py rdf.py username_here```
+If you would like to save your log run this instead: ```py rdf.py username_here > users.log```
 
 ### What does this tool use?
 This tool uses 2 methods to find Discords:
