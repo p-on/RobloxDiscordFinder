@@ -7,6 +7,7 @@ Finds Discords corresponding to Roblox accounts, searches users friends for maxi
 - First download rdf.py
 - Make sure you have Python installed and PATH variables enabled
 - Open cmd.exe and cd into the files parent directory
+
 Run:
   ```pip install requests``` (You only need to run this line once)
   ```py rdf.py username_here```
