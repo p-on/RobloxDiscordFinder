@@ -1,7 +1,7 @@
 # Roblox Discord Finder
 
 ### What is this?
-A tool to find Discords corresponding to Roblox accounts, with added friend searching for maximum efficiency.
+A tool to find Discords corresponding to Roblox accounts with added friend searching for maximum efficiency.
 
 ### How do I run it?
 - First download rdf.py
