@@ -25,4 +25,4 @@ If you are struggling to run this contact me on Discord `pigeon#0002`
 
 You are free to use any code within this repository for any project.
 
-If you create a tool/bot using this code it is reccomended that you create a cache to ease API usage and store Discords just incase this code becomes obsolete.
+If you create a tool/bot using this code it is reccomended that you create a cache to ease API usage and incase this code becomes obsolete.
