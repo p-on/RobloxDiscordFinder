@@ -18,5 +18,5 @@ This tool uses 2 methods to find Discords:
 ### What is the intended use for this tool?
 To make finding peoples Discords from Roblox easier. Roblox Discord Finder searches through a users friends list (aswell as the target user) to find their Discords too so even if you can't find who you are looking for their friends may be able to help you out.
 
-### I need help
-Please contact me on Discord `pigeon#0002`
+### I need further help
+If you are struggling to run this contact me on Discord `pigeon#0002`
