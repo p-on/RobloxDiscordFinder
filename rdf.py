@@ -18,7 +18,7 @@ class main:
     def search_description(data: str, name: str):
         "Searches description for Discord tag matches."
         for query in re.findall(discord_regex, data):
-            print(f"{c.X}Discord found ({c.YE}{name}{c.X}) {c.G}", str(query).split("(")[1].split("',")[0], c.X)
+            print(f"{c.X}Discord found ({c.YE}{name}{c.X}) {c.G}", str(query).split("(")[1].split("',")[0].split("'")[1], c.X)
 
     def find_user(id: str):
         "Finds Roblox information."
